@@ -1,0 +1,26 @@
+Requirements: 
+
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn==0.22.1
+matplotlib>=1.4.3
+pandas>=0.19
+streamlit
+
+Steps:
+1>
+open Command Prompt
+
+2> (Skip if you have already installed all of this)
+run all of this:
+
+pip install streamlit
+pip install scipy
+pip install sklearn
+pip install pandas
+
+3>
+run: python iris_model.py
+run: streamlit run iris_webapp.py
+
+Copy this link and paste it on local browser.
